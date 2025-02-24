@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📊 Análise de Dados de Imóveis
 
 ## 📌 Sobre o Projeto
@@ -75,3 +76,7 @@ Se quiser rodar o projeto em sua máquina, siga os passos:
 
 ## 📢 Conecte-se Comigo!
 Se você gostou do projeto, me adicione no [LinkedIn](https://www.linkedin.com/in/hencheo) e confira meu portfólio no GitHub! 😃
+=======
+# imoveis-RJ-DataSience
+Análise de Dados de Imóveis utilizando Python e Pandas
+>>>>>>> 67f3723999f6623c0e4a601d349514c1afe6bffe
